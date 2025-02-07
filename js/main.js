@@ -1,5 +1,5 @@
-import DnaConfig from "./Dna/DnaConfig.js";
-import DnaProcessor from "./Dna/DnaProcessor.js";
+import DnaConfig from "./dna/dnaConfig.js";
+import DnaProcessor from "./dna/dnaProcessor.js";
 
 document.addEventListener("DOMContentLoaded", () => {
     const inputTextarea = document.getElementById("input");
