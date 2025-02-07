@@ -121,105 +121,94 @@ export default class DnaConfig {
               "cheek_width_neg": 0,
               "cheek_width_pos": 0
             },
-            "gene_bs_forehead_brow_curve": {
-              "forehead_brow_curve_neg": 94,
-              "forehead_brow_curve_pos": 113
-            },
             "gene_bs_jaw_def": {
               "jaw_def_neg": 0,
               "jaw_def_pos": 0
             },
             "gene_bs_mouth_lower_lip_def": {
-              "mouth_lower_lip_def_pos": 61,
-              "mouth_lower_lip_def_pos": 64
+              "mouth_lower_lip_def_pos": 255
             },
             "gene_bs_mouth_lower_lip_full": {
-              "mouth_lower_lip_full_pos": 77,
-              "mouth_lower_lip_full_neg": 91
+              "mouth_lower_lip_full_pos": 0,
+              "mouth_lower_lip_full_neg": 0
             },
             "gene_bs_mouth_lower_lip_pad": {
-              "mouth_lower_lip_pad_neg": 27,
-              "mouth_lower_lip_pad_neg": 152
+              "mouth_lower_lip_pad_neg": 0,
+              "mouth_lower_lip_pad_pos": 0
             },
             "gene_bs_mouth_lower_lip_width": {
               "mouth_lower_lip_width_neg": 27,
               "mouth_lower_lip_width_pos": 28
             },
             "gene_bs_mouth_philtrum_def": {
-              "mouth_philtrum_def_pos": 30,
-              "mouth_philtrum_def_pos": 137
+              "mouth_philtrum_def_pos": 0,
+              "mouth_philtrum_def_neg": 0
             },
             "gene_bs_mouth_philtrum_shape": {
-              "mouth_philtrum_shape_pos": 60,
-              "mouth_philtrum_shape_pos": 10
+              "mouth_philtrum_shape_pos": 0,
+              "mouth_philtrum_shape_neg": 0
             },
             "gene_bs_mouth_philtrum_width": {
-              "mouth_philtrum_width_pos": 7,
-              "mouth_philtrum_width_neg": 7
+              "mouth_philtrum_width_pos": 0,
+              "mouth_philtrum_width_neg": 0
             },
             "gene_bs_mouth_upper_lip_def": {
-              "mouth_upper_lip_def_pos": 46,
-              "mouth_upper_lip_def_pos": 41
+              "mouth_upper_lip_def_pos": 255
             },
             "gene_bs_mouth_upper_lip_full": {
-              "mouth_upper_lip_full_neg": 109,
-              "mouth_upper_lip_full_pos": 84
+              "mouth_upper_lip_full_neg": 0,
+              "mouth_upper_lip_full_pos": 0
             },
             "gene_bs_mouth_upper_lip_profile": {
-              "mouth_upper_lip_profile_pos": 68,
+              "mouth_upper_lip_profile_neg": 0,
               "mouth_upper_lip_profile_pos": 0
             },
             "gene_bs_mouth_upper_lip_width": {
-              "mouth_upper_lip_width_neg": 13,
-              "mouth_upper_lip_width_pos": 25
+              "mouth_upper_lip_width_neg": 0,
+              "mouth_upper_lip_width_pos": 0
             },
             "gene_bs_nose_forward": {
               "nose_forward_neg": 0,
-              "nose_forward_neg": 9
+              "nose_forward_pos": 0
             },
             "gene_bs_nose_height": {
-              "nose_height_pos": 117,
-              "nose_height_neg": 30
+              "nose_height_neg": 64
             },
             "gene_bs_nose_length": {
               "nose_length_pos": 0,
-              "nose_length_neg": 68
+              "nose_length_neg": 0
             },
             "gene_bs_nose_nostril_height": {
               "nose_nostril_height_neg": 0,
-              "nose_nostril_height_neg": 13
+              "nose_nostril_height_pos": 0
             },
             "gene_bs_nose_nostril_width": {
               "nose_nostril_width_neg": 0,
-              "nose_nostril_width_pos": 41
-            },
-            "gene_bs_nose_profile": {
-              "nose_profile_hawk": 127,
-              "nose_profile_pos": 111
+              "nose_nostril_width_pos": 0
             },
             "gene_bs_nose_ridge_angle": {
               "nose_ridge_angle_pos": 0,
-              "nose_ridge_angle_neg": 12
+              "nose_ridge_angle_neg": 0
             },
             "gene_bs_nose_ridge_width": {
               "nose_ridge_width_neg": 255,
-              "nose_ridge_width_pos": 7
+              "nose_ridge_width_pos": 0
             },
             "gene_bs_nose_size": {
-              "nose_size_pos": 112,
-              "nose_size_pos": 4
+              "nose_size_pos": 0,
+              "nose_size_neg": 4
             },
             "gene_bs_nose_tip_angle": {
               "nose_tip_angle_neg": 0,
-              "nose_tip_angle_pos": 86
+              "nose_tip_angle_pos": 0
             },
             "gene_bs_nose_tip_forward": {
               "nose_tip_forward_pos": 0,
-              "nose_tip_forward_neg": 6
+              "nose_tip_forward_neg": 0
             },
             "gene_bs_nose_tip_width": {
               "nose_tip_width_pos": 0,
-              "nose_tip_width_neg": 62
+              "nose_tip_width_neg": 0
             },
             "face_detail_cheek_def": {
               "cheek_def_01": 0,
