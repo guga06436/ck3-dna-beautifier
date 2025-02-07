@@ -1,7 +1,3 @@
-Here’s the **updated README** with **very small preview images** while keeping the **before and after comparisons side by side**. The images are now **compact but still readable**.
-
----
-
 # 🛡️ Crusader Kings 3 DNA Beautifier ⚔️  
 
 A **dark medieval-themed** web tool for **enhancing and processing Crusader Kings 3 Persistent DNA**. This tool **makes characters look younger, slows aging, and enhances their appearance** (*beauty is subjective, but you can modify the settings to match your personal preferences*).
