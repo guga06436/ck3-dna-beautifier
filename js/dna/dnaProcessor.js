@@ -62,14 +62,13 @@ export default class DnaProcessor {
                         });
                         return `\"${geneKey}\" ${geneValue}`;
                     });
-                    console.log(updatedValues);
-                    return `${geneName}={ ${updatedValues} }`;
+                    return `${geneName}={ ${updatedValues.join(" ")} }`;
                 } else {
                     return geneMatch
                 }
             });
 
-            this.text = this.text.replace(genesBlock, `genes={ ${updatedGenes} }`);
+            this.text = this.text.replace(genesBlock, `${updatedGenes} }`);
             console.log("Processed DNA text successfully.");
             console.log(this.text);
             return this.text;
