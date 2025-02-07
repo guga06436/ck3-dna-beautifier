@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crusader Kings 3 DNA Beautifier</title>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+
+    <!-- ⚔️ Medieval Header -->
+    <header class="medieval-header">
+        <h1>🛡️ Crusader Kings 3 DNA Beautifier ⚔️</h1>
+        <p class="header-subtitle">"Forging noble bloodlines, one DNA string at a time."</p>
+    </header>
+
+    <main class="container">
+        <h2>📜 Modify Your Royal DNA ⚔️</h2>
+
+        <div class="text-boxes">
+            <div class="text-box">
+                <label for="input">👑 Input DNA:</label>
+                <textarea id="input" aria-label="Input text area" placeholder="Paste your DNA code here..."></textarea>
+                <div class="buttons">
+                    <button id="pasteBtn">📋 Paste</button>
+                    <button id="copyInputBtn">📄 Copy</button>
+                </div>
+            </div>
+
+            <div class="text-box">
+                <label for="output">📜 Processed DNA:</label>
+                <textarea id="output" aria-label="Output text area" placeholder="Processed DNA will appear here..." readonly></textarea>
+                <div class="buttons">
+                    <button id="copyOutputBtn">📄 Copy</button>
+                </div>
+            </div>
+        </div>
+
+        <button id="processBtn" class="process-button">⚒️ Beautify DNA</button>
+    </main>
+
+    <script src="./js/main.js" type="module"></script>
+</body>
+</html>
