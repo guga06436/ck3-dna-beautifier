@@ -49,11 +49,8 @@ export default class DnaProcessor {
                     ];
                     
                     updatedValues = updatedValues.map(item => {
-                        console.log(item);
                         let geneKey = Object.keys(configGene)[0];
-                        console.log(geneKey);
                         let geneValue = configGene[geneKey];
-                        console.log(geneValue);
                         Object.keys(item).forEach(key => {
                             if (!isNaN(configGene[key])) {
                                 geneKey = key;
@@ -70,7 +67,6 @@ export default class DnaProcessor {
 
             this.text = this.text.replace(genesBlock, `${updatedGenes} }`);
             console.log("Processed DNA text successfully.");
-            console.log(this.text);
             return this.text;
         } catch (error) {
             console.error("Error processing DNA:", error);
