@@ -78,6 +78,10 @@ git clone https://github.com/your-username/ck3-dna-beautifier.git
 cd ck3-dna-beautifier
 ```
 
+```
+Or download it as a .zip file.
+```
+
 ### **2️⃣ Open the `index.html` Locally**  
 You can open the file `index.html` in your browser:  
 ```bash
